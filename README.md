@@ -1,8 +1,8 @@
 # Movie Shelf
   Figuring out what to watch has never been easier.
   
-  (![Screenshot 2021-07-19 202604](https://user-images.githubusercontent.com/84393987/127940643-664fa857-2f13-4189-b278-9fbb607fee8c.png)
-)
+  ![Screenshot 2021-07-19 202604](https://user-images.githubusercontent.com/84393987/127940643-664fa857-2f13-4189-b278-9fbb607fee8c.png)
+
       
   # Table Of Contents
   
